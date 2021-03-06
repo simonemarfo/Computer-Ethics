@@ -1,0 +1,44 @@
+\input{styleFile}
+\begin{document}
+	%Title page
+	\input{Files/firstPage}
+	%Table of contents
+	\tableofcontents
+	%----
+    \clearpage
+    %---
+	\section*{Abstract}
+    \label{sect:Abstract}
+    \addcontentsline{toc}{section}{Abstract}
+	\input{Files/abstract}	
+    %---
+	\section*{Introduction}
+    \label{sect:Introduction}
+    \addcontentsline{toc}{section}{Introduction}
+    \input{Files/introduction}
+    %---
+	\section*{Malware}
+    \label{sect:Malware}
+    \addcontentsline{toc}{section}{Malware}
+    \input{Files/malware}
+    %---
+	\section*{Use of malware by law enforcements}
+    \label{sect:Use of malware by law enforcements}
+    \addcontentsline{toc}{section}{Use of malware by law enforcements}
+    \input{Files/use_of_malware_by_law_enforcement}
+    %---
+	\section*{Moral and legal problems}
+    \label{sect:Moral and legal problems}
+    \addcontentsline{toc}{section}{Moral and legal problems}
+    \input{Files/moral_and_legal_problems.tex}
+    %---
+    \section*{Conclusions}
+    \label{sect:Conclusions}
+    \addcontentsline{toc}{section}{Conclusions}
+	\input{Files/conclusions}
+    %---
+    \label{sect:References}
+    \addcontentsline{toc}{section}{References}
+    \printbibliography[title={References}]
+	%---	
+\end{document}

@@ -1,0 +1,54 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abstract}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Introduction}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Malware}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Use of malware by law enforcements}{4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Moral and legal problems}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The need to tame Trojan horses}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Other forms of surveillance}{7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Malware manufactures and moral issues}{8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Vulnerabilities like diamonds, rare and precious}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Conclusions}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{11}% 

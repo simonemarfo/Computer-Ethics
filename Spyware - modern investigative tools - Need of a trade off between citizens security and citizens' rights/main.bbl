@@ -1,0 +1,815 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{malware_definition}{book}{}
+      \name{author}{1}{}{%
+        {{hash=01d353a224f16c8d77d129ea8df5a57a}{%
+           family={Andrew\bibnamedelima Butterfield},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Anne\bibnamedelima Kerr},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           suffix={Gerard\bibnamedelimb Ekembe\bibnamedelima Ngondi},
+           suffixi={G\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{01d353a224f16c8d77d129ea8df5a57a}
+      \strng{fullhash}{01d353a224f16c8d77d129ea8df5a57a}
+      \strng{bibnamehash}{01d353a224f16c8d77d129ea8df5a57a}
+      \strng{authorbibnamehash}{01d353a224f16c8d77d129ea8df5a57a}
+      \strng{authornamehash}{01d353a224f16c8d77d129ea8df5a57a}
+      \strng{authorfullhash}{01d353a224f16c8d77d129ea8df5a57a}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780199688975}
+      \field{note}{Malware : An inclusive term for any software with a subversive purpose. Malware includes Trojan horses, viruses, worms, adware (def. 2), and spyware.}
+      \field{title}{A Dictionary of Computer Science (7 ed.)}
+      \field{year}{2016}
+      \field{pages}{758}
+      \range{pages}{1}
+      \keyw{dictionary}
+    \endentry
+    \entry{malware_as_wasting_resource}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=42a4e45a62db90fb26313d916de20e5c}{%
+           family={Ohm},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {26 Wm. \& Mary Bill Rts. J. 303 (2017)}%
+      }
+      \strng{namehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{fullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{bibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorbibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authornamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorfullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Investigative Dynamics of the Use of Malware by Law Enforcement}
+      \field{year}{2017}
+      \field{pages}{313\bibrangedash 314}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+      \verb{url}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+    \endentry
+    \entry{malware_steps}{article}{}
+      \name{author}{1}{}{%
+        {{hash=baee7c739ac56e69ec39386e06a89be6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{fullhash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{bibnamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authorbibnamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authornamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authorfullhash}{baee7c739ac56e69ec39386e06a89be6}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{127 Yale L.J. (2017)}
+      \field{title}{Government Hacking}
+      \field{year}{2017}
+      \field{pages}{583\bibrangedash 589}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://digitalcommons.law.yale.edu/ylj/vol127/iss3/2
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.law.yale.edu/ylj/vol127/iss3/2
+      \endverb
+    \endentry
+    \entry{cyber_attacks_and_terrorism}{article}{}
+      \name{author}{1}{}{%
+        {{hash=31a7abaa00eaf077fe1dafc7fbc3733a}{%
+           family={Albahar},
+           familyi={A\bibinitperiod},
+           given={Marwan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \strng{fullhash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \strng{bibnamehash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \strng{authorbibnamehash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \strng{authornamehash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \strng{authorfullhash}{31a7abaa00eaf077fe1dafc7fbc3733a}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science and Engineering Ethics}
+      \field{month}{08}
+      \field{title}{Cyber Attacks and Terrorism: A Twenty-First Century Conundrum}
+      \field{volume}{25}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1007/s11948-016-9864-0
+      \endverb
+    \endentry
+    \entry{cyber_conflicts}{article}{}
+      \name{author}{1}{}{%
+        {{hash=521182e8c3ca834e0e65357a54ac240c}{%
+           family={Denning},
+           familyi={D\bibinitperiod},
+           given={Dorothy\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{521182e8c3ca834e0e65357a54ac240c}
+      \strng{fullhash}{521182e8c3ca834e0e65357a54ac240c}
+      \strng{bibnamehash}{521182e8c3ca834e0e65357a54ac240c}
+      \strng{authorbibnamehash}{521182e8c3ca834e0e65357a54ac240c}
+      \strng{authornamehash}{521182e8c3ca834e0e65357a54ac240c}
+      \strng{authorfullhash}{521182e8c3ca834e0e65357a54ac240c}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Handbook of Information and Computer Ethics}
+      \field{title}{The Ethics of Cyber Conflict}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1002/9780470281819.ch17
+      \endverb
+    \endentry
+    \entry{malware_justification_1}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=42a4e45a62db90fb26313d916de20e5c}{%
+           family={Ohm},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {26 Wm. \& Mary Bill Rts. J. 303 (2017)}%
+      }
+      \strng{namehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{fullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{bibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorbibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authornamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorfullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Investigative Dynamics of the Use of Malware by Law Enforcement}
+      \field{year}{2017}
+      \field{pages}{317}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+      \verb{url}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+    \endentry
+    \entry{malware_justification_2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=baee7c739ac56e69ec39386e06a89be6}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{fullhash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{bibnamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authorbibnamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authornamehash}{baee7c739ac56e69ec39386e06a89be6}
+      \strng{authorfullhash}{baee7c739ac56e69ec39386e06a89be6}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{127 Yale L.J. (2017)}
+      \field{title}{Government Hacking}
+      \field{year}{2017}
+      \field{pages}{570}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://digitalcommons.law.yale.edu/ylj/vol127/iss3/2
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.law.yale.edu/ylj/vol127/iss3/2
+      \endverb
+    \endentry
+    \entry{malware_justification_3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=00a34d0ff75ca182575d00f0c39fbc5d}{%
+           family={Indovina},
+           familyi={I\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{fullhash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{bibnamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authorbibnamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authornamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authorfullhash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \field{extraname}{1}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MediaLaws}
+      \field{title}{I captatori informatici: una riforma troppo contenuta per uno strumento investigativo così pervasivo}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://www.medialaws.eu/rivista/i-captatori-informatici-una-riforma-troppo-contenuta-per-uno-strumento-investigativo-cosi-pervasivo/
+      \endverb
+      \verb{url}
+      \verb http://www.medialaws.eu/rivista/i-captatori-informatici-una-riforma-troppo-contenuta-per-uno-strumento-investigativo-cosi-pervasivo/
+      \endverb
+    \endentry
+    \entry{encrochat_1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c8cc3c8d3af60c71f268c3d7cf2d1d28}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={Ylva},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \strng{fullhash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \strng{bibnamehash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \strng{authorbibnamehash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \strng{authornamehash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \strng{authorfullhash}{c8cc3c8d3af60c71f268c3d7cf2d1d28}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{month}{08}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ec.europa.eu/commission/commissioners/2019-2024/johansson/blog/encrochat-shows-europol-irreplaceable-fighting-cross-border-crime_en
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/commission/commissioners/2019-2024/johansson/blog/encrochat-shows-europol-irreplaceable-fighting-cross-border-crime_en
+      \endverb
+    \endentry
+    \entry{encrochat_2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=19c8686daef3f7d4b1761179dd6de9fd}{%
+           family={Frediani},
+           familyi={F\bibinitperiod},
+           given={Carola},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \strng{fullhash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \strng{bibnamehash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \strng{authorbibnamehash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \strng{authornamehash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \strng{authorfullhash}{19c8686daef3f7d4b1761179dd6de9fd}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{month}{07}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.valigiablu.it/encrochat-maxiretata-criminalita/
+      \endverb
+      \verb{url}
+      \verb https://www.valigiablu.it/encrochat-maxiretata-criminalita/
+      \endverb
+    \endentry
+    \entry{abuse_1}{online}{}
+      \name{author}{2}{}{%
+        {{hash=d12b7fa22a8d13603b63bc4c8590d7c0}{%
+           family={Scott-Railton},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2c6df8f615221bf1c693c63422efc974}{%
+           family={Deibert},
+           familyi={D\bibinitperiod},
+           given={Ronald\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b62dd217628236bb8edcac9706d5f350}
+      \strng{fullhash}{b62dd217628236bb8edcac9706d5f350}
+      \strng{bibnamehash}{b62dd217628236bb8edcac9706d5f350}
+      \strng{authorbibnamehash}{b62dd217628236bb8edcac9706d5f350}
+      \strng{authornamehash}{b62dd217628236bb8edcac9706d5f350}
+      \strng{authorfullhash}{b62dd217628236bb8edcac9706d5f350}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{month}{03}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.theglobeandmail.com/opinion/article-governments-are-deploying-spyware-on-killers-drug-lords-and/
+      \endverb
+      \verb{url}
+      \verb https://www.theglobeandmail.com/opinion/article-governments-are-deploying-spyware-on-killers-drug-lords-and/
+      \endverb
+    \endentry
+    \entry{abuse_2}{online}{}
+      \name{author}{2}{}{%
+        {{hash=861c91a4761991fbefc6b4f7a6e76898}{%
+           family={Kirchgaessner},
+           familyi={K\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=65554477665f995034473fd825a8fdfd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \strng{fullhash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \strng{bibnamehash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \strng{authorbibnamehash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \strng{authornamehash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \strng{authorfullhash}{c12ce5026ff4a7decc3b1dfcaa6799ee}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{month}{07}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.theguardian.com/world/2020/jul/13/phone-of-top-catalan-politician-targeted-by-government-grade-spyware/
+      \endverb
+      \verb{url}
+      \verb https://www.theguardian.com/world/2020/jul/13/phone-of-top-catalan-politician-targeted-by-government-grade-spyware/
+      \endverb
+    \endentry
+    \entry{abuse_3}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Global surveillance disclosures}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
+      \endverb
+    \endentry
+    \entry{dl_216/2017}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto Legislativo 29 dicembre 2017, n. 216}
+      \verb{urlraw}
+      \verb https://www.gazzettaufficiale.it/eli/id/2018/01/11/18G00002/sg
+      \endverb
+      \verb{url}
+      \verb https://www.gazzettaufficiale.it/eli/id/2018/01/11/18G00002/sg
+      \endverb
+    \endentry
+    \entry{dl_28/2020}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto-Legge 30 aprile 2020, n. 28}
+      \verb{urlraw}
+      \verb https://www.gazzettaufficiale.it/eli/id/2020/04/30/20G00046/sg
+      \endverb
+      \verb{url}
+      \verb https://www.gazzettaufficiale.it/eli/id/2020/04/30/20G00046/sg
+      \endverb
+    \endentry
+    \entry{28/2020_ref}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{title}{La riforma della disciplina delle intercettazioni}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://temi.camera.it/leg18/temi/la-riforma-della-disciplina-delle-intercettazioni.html
+      \endverb
+      \verb{url}
+      \verb https://temi.camera.it/leg18/temi/la-riforma-della-disciplina-delle-intercettazioni.html
+      \endverb
+    \endentry
+    \entry{R2D2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0d12d636c286b40166fb781ab5cfb1ec}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Businessinsider}%
+      }
+      \strng{namehash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \strng{fullhash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \strng{bibnamehash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \strng{authorbibnamehash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \strng{authornamehash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \strng{authorfullhash}{0d12d636c286b40166fb781ab5cfb1ec}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Here's What You Need To Know About Germany's Government Spyware Scandal}
+      \verb{urlraw}
+      \verb https://www.businessinsider.com/germany-spyware-r2d2-2011-10?IR=T
+      \endverb
+      \verb{url}
+      \verb https://www.businessinsider.com/germany-spyware-r2d2-2011-10?IR=T
+      \endverb
+    \endentry
+    \entry{exodus}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d269bf76ca96fa53ae06903edac0d3c7}{%
+           family={Longo},
+           familyi={L\bibinitperiod},
+           given={Alessador},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Repubblica}%
+      }
+      \strng{namehash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \strng{fullhash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \strng{bibnamehash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \strng{authorbibnamehash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \strng{authornamehash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \strng{authorfullhash}{d269bf76ca96fa53ae06903edac0d3c7}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Più di mille italiani intercettati sul cellulare, per errore, da un hacker di Stato}
+      \verb{urlraw}
+      \verb https://www.repubblica.it/tecnologia/sicurezza/2019/03/30/news/molte_centinaia_di_italiani_intercettati_su_cellulare_per_errore_da_hacker_di_stato-222865990/
+      \endverb
+      \verb{url}
+      \verb https://www.repubblica.it/tecnologia/sicurezza/2019/03/30/news/molte_centinaia_di_italiani_intercettati_su_cellulare_per_errore_da_hacker_di_stato-222865990/
+      \endverb
+    \endentry
+    \entry{rossano_ferraris}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d7abf6e10989c97a9c273c587a80e35a}{%
+           family={Ferraris},
+           familyi={F\bibinitperiod},
+           given={Rossano},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d7abf6e10989c97a9c273c587a80e35a}
+      \strng{fullhash}{d7abf6e10989c97a9c273c587a80e35a}
+      \strng{bibnamehash}{d7abf6e10989c97a9c273c587a80e35a}
+      \strng{authorbibnamehash}{d7abf6e10989c97a9c273c587a80e35a}
+      \strng{authornamehash}{d7abf6e10989c97a9c273c587a80e35a}
+      \strng{authorfullhash}{d7abf6e10989c97a9c273c587a80e35a}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spyware governativi: realtà o leggenda?}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb http://www.aipsi.org/images/stories/pubblicazioni/contr/spyware%20governativi.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.aipsi.org/images/stories/pubblicazioni/contr/spyware%20governativi.pdf
+      \endverb
+    \endentry
+    \entry{216/2021_reporting}{article}{}
+      \name{author}{1}{}{%
+        {{hash=00a34d0ff75ca182575d00f0c39fbc5d}{%
+           family={Indovina},
+           familyi={I\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{fullhash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{bibnamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authorbibnamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authornamehash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \strng{authorfullhash}{00a34d0ff75ca182575d00f0c39fbc5d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MediaLaws}
+      \field{title}{I captatori informatici: una riforma troppo contenuta per uno strumento investigativo così pervasivo}
+      \field{year}{2018}
+      \field{pages}{11}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.medialaws.eu/rivista/i-captatori-informatici-una-riforma-troppo-contenuta-per-uno-strumento-investigativo-cosi-pervasivo/
+      \endverb
+      \verb{url}
+      \verb http://www.medialaws.eu/rivista/i-captatori-informatici-una-riforma-troppo-contenuta-per-uno-strumento-investigativo-cosi-pervasivo/
+      \endverb
+    \endentry
+    \entry{cell_site_simulator}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=42a4e45a62db90fb26313d916de20e5c}{%
+           family={Ohm},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {26 Wm. \& Mary Bill Rts. J. 303 (2017)}%
+      }
+      \strng{namehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{fullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{bibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorbibnamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authornamehash}{42a4e45a62db90fb26313d916de20e5c}
+      \strng{authorfullhash}{42a4e45a62db90fb26313d916de20e5c}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Investigative Dynamics of the Use of Malware by Law Enforcement}
+      \field{year}{2017}
+      \field{pages}{325}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+      \verb{url}
+      \verb https://scholarship.law.wm.edu/wmborj/vol26/iss2/4
+      \endverb
+    \endentry
+    \entry{ht_citizenlab}{article}{}
+      \name{author}{2}{}{%
+        {{hash=129b0c52aaebb1e8ee27a67d4895794d}{%
+           family={Bill\bibnamedelima Marczak},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Morgan\bibnamedelima Marquis-Boire},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinithyphendelim B\bibinitperiod},
+           suffix={Claudio\bibnamedelima Guarnieri},
+           suffixi={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=d12b7fa22a8d13603b63bc4c8590d7c0}{%
+           family={Scott-Railton},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Citizen Lab}%
+      }
+      \strng{namehash}{00febbe75108df6a0b9ad39c29252e63}
+      \strng{fullhash}{00febbe75108df6a0b9ad39c29252e63}
+      \strng{bibnamehash}{00febbe75108df6a0b9ad39c29252e63}
+      \strng{authorbibnamehash}{00febbe75108df6a0b9ad39c29252e63}
+      \strng{authornamehash}{00febbe75108df6a0b9ad39c29252e63}
+      \strng{authorfullhash}{00febbe75108df6a0b9ad39c29252e63}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mapping Hacking Team’s “Untraceable” Spyware}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://citizenlab.ca/2014/02/mapping-hacking-teams-untraceable-spyware/
+      \endverb
+      \verb{url}
+      \verb https://citizenlab.ca/2014/02/mapping-hacking-teams-untraceable-spyware/
+      \endverb
+    \endentry
+    \entry{ht_wikipedia}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Hacking Team}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Hacking_Team
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Hacking_Team
+      \endverb
+    \endentry
+    \entry{attacco_ai_pirati}{book}{}
+      \name{author}{2}{}{%
+        {{hash=af0fb429407b5299402e955d535ec7ab}{%
+           family={Frediani\bibnamedelima Carola},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Russo\bibnamedelima Massimo},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           suffix={Ruffilli\bibnamedelima Bruno},
+           suffixi={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=df626c7454fa56c935ccb3bb0ed9f07f}{%
+           family={Raphael},
+           familyi={R\bibinitperiod},
+           given={Zanotti},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {La Stampa}%
+      }
+      \strng{namehash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \strng{fullhash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \strng{bibnamehash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \strng{authorbibnamehash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \strng{authornamehash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \strng{authorfullhash}{fb34af55e6a052fd41cdb67fc6edbabf}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Attacco ai pirati. L'affondamento di Hacking Time: tutti i segreti del datagate italiano}
+      \field{year}{2015}
+    \endentry
+    \entry{eu_1382/2014}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Commission Delegated Regulation (EU) No 1382/2014}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/reg_del/2014/1382/oj/eng
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/reg_del/2014/1382/oj/eng
+      \endverb
+    \endentry
+    \entry{trojan_and_export}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f1cf1797825ba721314b918a97da3662}{%
+           family={Diritti\bibnamedelima Civili},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={CILD.\bibnamedelimi Coalizione\bibnamedelimb Italiana\bibnamedelima Libertà},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={e},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1cf1797825ba721314b918a97da3662}
+      \strng{fullhash}{f1cf1797825ba721314b918a97da3662}
+      \strng{bibnamehash}{f1cf1797825ba721314b918a97da3662}
+      \strng{authorbibnamehash}{f1cf1797825ba721314b918a97da3662}
+      \strng{authornamehash}{f1cf1797825ba721314b918a97da3662}
+      \strng{authorfullhash}{f1cf1797825ba721314b918a97da3662}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TROJAN \& CO. Tecnologie di sorveglianza e controllo delle esportazioni}
+      \verb{urlraw}
+      \verb https://cild.eu/wp-content/uploads/2017/06/TrojanCo-IT.pdf
+      \endverb
+      \verb{url}
+      \verb https://cild.eu/wp-content/uploads/2017/06/TrojanCo-IT.pdf
+      \endverb
+    \endentry
+    \entry{ht_CCSIRS}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bace7b95612e3a15de54195743f30e6a}{%
+           family={Pierozzi},
+           familyi={P\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Center for Cyber Security}%
+        {International Relations Studies}%
+      }
+      \strng{namehash}{bace7b95612e3a15de54195743f30e6a}
+      \strng{fullhash}{bace7b95612e3a15de54195743f30e6a}
+      \strng{bibnamehash}{bace7b95612e3a15de54195743f30e6a}
+      \strng{authorbibnamehash}{bace7b95612e3a15de54195743f30e6a}
+      \strng{authornamehash}{bace7b95612e3a15de54195743f30e6a}
+      \strng{authorfullhash}{bace7b95612e3a15de54195743f30e6a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Il caso ‘Hacking Team’: quis custodiet ipsos custodes? Problematiche e sfide per una più efficiente partnership tra settore privato e agenzie d’intelligence nella cybersecurity}
+      \field{year}{2015}
+      \field{pages}{5}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.dsps.unifi.it/upload/sub/filippo-pierozzi-hacking-team-paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dsps.unifi.it/upload/sub/filippo-pierozzi-hacking-team-paper.pdf
+      \endverb
+    \endentry
+    \entry{business_ethics}{article}{}
+      \name{author}{2}{}{%
+        {{hash=24501db5fe6a951548a2f510ceec92ea}{%
+           family={Donaldson},
+           familyi={D\bibinitperiod},
+           given={"Thomas},
+           giveni={"\bibinitperiod}}}%
+        {{hash=d4af98dec54f019580af1da763bf3f7b}{%
+           family={Dunfee"},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \strng{fullhash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \strng{bibnamehash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \strng{authorbibnamehash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \strng{authornamehash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \strng{authorfullhash}{665a13ec04658166a9ecf6ee0ae392fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{"0378-4266"}
+      \field{journaltitle}{"Journal of Banking \& Finance"}
+      \field{number}{"9"}
+      \field{title}{"Ties that bind in business ethics: Social contracts and why they matter"}
+      \field{volume}{"26"}
+      \field{year}{"2002"}
+      \field{pages}{"1853\bibrangedash 1865"}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb "https://doi.org/10.1016/S0378-4266(02)00195-4"
+      \endverb
+      \verb{urlraw}
+      \verb "http://www.sciencedirect.com/science/article/pii/S0378426602001954"
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0378426602001954
+      \endverb
+    \endentry
+    \entry{sep-ethics-business}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=d40655e7db90ceb958cffa94c4ca7304}{%
+           family={Moriarty},
+           familyi={M\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{fullhash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{bibnamehash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{authorbibnamehash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{authornamehash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{authorfullhash}{d40655e7db90ceb958cffa94c4ca7304}
+      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{Fall 2017}
+      \field{title}{{Business Ethics}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://plato.stanford.edu/archives/fall2017/entries/ethics-business/
+      \endverb
+      \verb{url}
+      \verb https://plato.stanford.edu/archives/fall2017/entries/ethics-business/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
